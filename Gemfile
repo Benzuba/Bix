@@ -8,7 +8,7 @@ end
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.0.1'
-gem 'aws-sdk', '<2.0'
+gem 'aws-sdk'
 # Use sqlite3 as the database for Active Record
 
 # Use Puma as the app server
@@ -32,9 +32,10 @@ gem 'jbuilder', '~> 2.5'
 gem 'simple_form', '~> 3.2', '>= 3.2.1'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
 gem 'haml', '~> 4.0', '>= 4.0.7'
-gem 'paperclip', '~> 4.3', '>= 4.3.6'
+gem 'paperclip'
 gem 'masonry-rails', '~> 0.2.4'
 gem 'acts_as_votable', '~> 0.10.0'
+gem 'envyable'
 
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 3.0'
