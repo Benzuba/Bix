@@ -1,6 +1,6 @@
 # Nomster 
 
-## A dynamic, database-driven web application that features image uploading using AWS and Google Mapping.
+## A dynamic, database-driven web application that features image uploading using AWS.
 
 
 
@@ -8,8 +8,7 @@
 
 
 
-
->__This web application allows a users to review local business using 5 star system.__
+>__This web application allows a users to post view, post, edit, delete, and like pictures.__
 
 
 ##  To Do's 
