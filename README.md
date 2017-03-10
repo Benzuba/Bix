@@ -1,24 +1,17 @@
-# README
+# Nomster 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## A dynamic, database-driven web application that features image uploading using AWS and Google Mapping.
 
-Things you may want to cover:
 
-* Ruby version
 
-* System dependencies
 
-* Configuration
 
-* Database creation
 
-* Database initialization
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
+>__This web application allows a users to review local business using 5 star system.__
 
-* Deployment instructions
 
-* ...
+##  To Do's 
+
+---
