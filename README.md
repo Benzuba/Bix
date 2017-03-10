@@ -15,3 +15,6 @@
 ##  To Do's 
 
 ---
+### Allow only current user to edit pictures
+### Allow logged in users to create comments 
+### 5 downvotes deletes image 
