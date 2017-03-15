@@ -1,4 +1,4 @@
-# Nomster 
+# Bix-It
 
 ## A dynamic, database-driven web application that features image uploading using AWS.
 
